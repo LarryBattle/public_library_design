@@ -12,7 +12,7 @@ Learn DB design by building a public library
 ## Step 2: List a set of use cases.
 
 ## Features:
-- Define LLI = Lendable library item
+- Define LLI = Lendable library item, ex. Books, movie, audiobook
 - define Patron = Customer
 
 ### Employee - library employee
