@@ -7,6 +7,8 @@ Learn DB design by building a public library
 ## Goal
 - Design the class diagram for a public library
 
+----------
+
 ## Step 2: List a set of use cases.
 
 ## Features:
@@ -43,3 +45,8 @@ Learn DB design by building a public library
 
 - Reserved a LLI at a library
 - 
+
+---------
+### Useful resources:
+- [Design Your Own Database Concept to Implementation](https://www.dartmouth.edu/~bknauff/dwebd/2004-02/DB-intro.pdf)
+- [Database Answers](http://www.databaseanswers.org/data_models/)
