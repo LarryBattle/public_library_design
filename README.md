@@ -50,3 +50,9 @@ Learn DB design by building a public library
 ### Useful resources:
 - [Design Your Own Database Concept to Implementation](https://www.dartmouth.edu/~bknauff/dwebd/2004-02/DB-intro.pdf)
 - [Database Answers](http://www.databaseanswers.org/data_models/)
+
+### Data Modeling tools:
+- Online: [SQL DBM](https://app.sqldbm.com/SQLServer/Draft/)
+- Online: [draw.io](https://www.draw.io/), [example](https://about.draw.io/entity-relationship-diagram-erd/)
+- Desktop App: [MySql Workbench](https://www.mysql.com/products/workbench/)
+- Desktop App: [Oracle data modeler](https://www.oracle.com/database/technologies/appdev/datamodeler.html)
